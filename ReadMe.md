@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning: JavaScript and Java, with a focus on improving my understanding and mastering these languages.<br>🔭 Working on: Enhancing my web development skills and exploring new web technologies.<br>👯 Looking to collaborate on: Open-source projects, innovative web applications, and challenging web development tasks.<br>💻 Skills until now: C language (built a classes management project), Linux file systems, networking, and web development (HTML, CSS, Bootstrap, Tailwind, JavaScript).<br>📫 How to reach me: linkedin.com/in/taha-lamhandi | lamhandit@gmail.com
+🌱 Currently learning: JavaScript and Java, with a focus on improving my understanding and mastering these languages.<br>🔭 Working on: Enhancing my web development skills and exploring new web technologies.<br>👯 Looking to collaborate on: Open-source projects, innovative web applications, and challenging web development tasks.<br>💻 Skills until now: C language (built a classes management project), Linux file systems, networking, and web development (HTML, CSS, Bootstrap, Tailwind, JavaScript).<br>📫 How to reach me: [linkedin.com/in/taha-lamhandi](https://www.linkedin.com/in/taha-lamhandi/) | lamhandit@gmail.com
 
 
 ## 🌐 Socials:
